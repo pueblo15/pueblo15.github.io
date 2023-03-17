@@ -1,4 +1,1 @@
-## pueblo15.github.io
-###Test page
-
-#Pueblo Lucena Community website
+# Pueblo Lucena Community website
