@@ -149,14 +149,14 @@ html, body {
   }
 }
 
-/* Container1*/
+/* Container1 */
 container1 {
 width:100%;
   background-color: #cccccc;
   padding: 10px;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color: black;
 }
 
 
