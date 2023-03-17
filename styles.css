@@ -152,12 +152,14 @@ html, body {
 /* Divisions for content sections */
 .myDiv1 {
   border: 0px outset; 
+  padding: 10px;
   background-color: #8c8b8f;
   text-align: center;
 }
 
 .myDiv2 {
   border: 0px outset;
+  padding:10px;
   background-color: #bdbbc2;
   text-align: center;
 }
