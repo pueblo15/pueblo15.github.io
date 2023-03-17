@@ -149,16 +149,12 @@ html, body {
   }
 }
 
-/* Container1 */
-container1 {
-width:100%;
-  background-color: blue;
-  padding: 10px;
+/* Divisions for content sections */
+.myDiv1 {
+  border: 5px outset red;
+  background-color: lightblue;
   text-align: center;
-  font-size: 35px;
-  color: black;
 }
-
 
 /* Style the header */
 header {
