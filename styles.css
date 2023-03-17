@@ -17,7 +17,7 @@ body {
 header {
   width:100%;
   background-color: #666;
-  padding: 10px;
+  padding: 0px;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -28,7 +28,7 @@ nav {
   width: 100%;
   height: 50px; /* only for demonstration, should be removed */
   background: #ccc;
-  padding: 20px;
+  padding: 0px;
 }
 
 /* Style the list inside the menu */
@@ -39,7 +39,7 @@ nav ul {
 
 article {
   
-  padding: 20px;
+  padding: 0px;
   width: 100%;
   background-color: #f1f1f1;
   height: 300px; /* only for demonstration, should be removed */
@@ -55,7 +55,7 @@ section::after {
 /* Style the footer */
 footer {
   width:100%;
-  height: 50px;
+  height: 100px;
   background-color: #777;
   padding: 0px;
   text-align: center;
