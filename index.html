@@ -2,16 +2,17 @@
 <html>
 <head>
 <style>
-.item1 { grid-area: header; }
+  .item1 { grid-area: menu; }
+.item2 { grid-area: header; }
 .item2 { grid-area: main; }
-.item3 { grid-area: right; }
-.item4 { grid-area: footer; }
+.item3 { grid-area: footer; }
 
 .grid-container {
   display: grid;
   grid-template:
+    'menu menu menu menu menu menu'
     'header header header header header header'
-    'main main main right right right'
+    'main main main main main main'
     'footer footer footer footer footer footer';
   grid-gap: 1px;
   background-color: #dddddd;
@@ -30,10 +31,10 @@
 
 
 <div class="grid-container">
-  <div class="item1">Pueblo Lucena Community</div>
-  <div class="item2">Main</div>
-    <div class="item3">Right</div>
-  <div class="item4">Footer</div>
+ <div class="item1">Menu</div>
+  <div class="item2">Pueblo Lucena Community</div>
+  <div class="item3">Main</div>
+      <div class="item4">Footer</div>
 </div>
 
 </body>
