@@ -151,10 +151,17 @@ html, body {
 
 /* Divisions for content sections */
 .myDiv1 {
-  border: 5px outset red;
-  background-color: lightblue;
+  border: 0px outset; 
+  background-color: #cccccce;
   text-align: center;
 }
+
+.myDiv2 {
+  border: 0px outset;
+  background-color: #dedede;
+  text-align: center;
+}
+
 
 /* Style the header */
 header {
