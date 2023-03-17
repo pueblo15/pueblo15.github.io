@@ -152,7 +152,7 @@ html, body {
 /* Divisions for content sections */
 .myDiv1 {
   border: 0px outset; 
-  padding: 15px;
+  padding: 25px;
   background-color: #8c8b8f;
   text-align: left;
   color: #ffffff;
@@ -160,13 +160,13 @@ html, body {
 
 .myDiv2 {
   border: 0px outset;
-  padding:15px;
+  padding:25px;
   background-color: #bdbbc2;
   text-align: left;
 }
 .myDiv3 {
   border: 0px outset;
-  padding:15px;
+  padding:25px;
   background-color: #ffffff;
   text-align: left;
 }
