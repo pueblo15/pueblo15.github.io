@@ -172,9 +172,9 @@ html, body {
 }
 .myDiv4 {
   border: 0px outset;
-  padding:5px;
+  padding:25px;
   background-color: #333333;
-  text-align: center;
+  text-align: left;
   color: #ffffff;
 }
 
