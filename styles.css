@@ -1,5 +1,31 @@
+<style>
+  .item1 { grid-area: menu; }
+.item2 { grid-area: header; }
+.item3 { grid-area: main; }
+.item4 { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template:
+    'menu menu menu menu menu menu'
+    'header header header header header header'
+    'main main main main main main'
+    'footer footer footer footer footer footer';
+  grid-gap: 1px;
+  background-color: #dddddd;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 15px;
+}
+</style>
+
 body {
-  background-color: powderblue;
+  background-color: #eeeeee;
 }
 h1 {
   color: blue;
