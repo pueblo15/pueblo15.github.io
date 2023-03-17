@@ -41,7 +41,7 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 950%;
+  width: 95%;
   background-color: #f1f1f1;
   height: 300px; /* only for demonstration, should be removed */
 }
@@ -57,7 +57,7 @@ section::after {
 footer {
   width:100%;
   background-color: #777;
-  padding: 10px;
+  padding: 0px;
   text-align: center;
   color: white;
 }
