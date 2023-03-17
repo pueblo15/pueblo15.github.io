@@ -152,7 +152,7 @@ html, body {
 /* Container1 */
 container1 {
 width:100%;
-  background-color: #cccccc;
+  background-color: blue;
   padding: 10px;
   text-align: center;
   font-size: 35px;
@@ -216,4 +216,3 @@ footer {
     height: auto;
   }
 }
-</style>
