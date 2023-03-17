@@ -155,7 +155,7 @@ html, body {
   padding: 15px;
   background-color: #8c8b8f;
   text-align: left;
-  colour: #ffffff;
+  color: #ffffff;
 }
 
 .myDiv2 {
@@ -170,6 +170,15 @@ html, body {
   background-color: #ffffff;
   text-align: left;
 }
+.myDiv4 {
+  border: 0px outset;
+  padding:25px;
+  background-color: #333333;
+  text-align: center;
+  color: #ffffff;
+}
+
+
 
 /* Style the header */
 header {
