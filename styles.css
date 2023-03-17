@@ -163,7 +163,12 @@ html, body {
   background-color: #bdbbc2;
   text-align: center;
 }
-
+.myDiv3 {
+  border: 0px outset;
+  padding:10px;
+  background-color: #ffffff;
+  text-align: left;
+}
 
 /* Style the header */
 header {
