@@ -157,7 +157,7 @@ html, body {
 header {
   width:100%;
   background-color: #666;
-  padding: 0px;
+  padding: 10px;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -179,10 +179,10 @@ nav ul {
 
 article {
   
-  padding: 0px;
+  padding: 10px;
   width: 100%;
   background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  
 }
 
 /* Clear floats after the columns */
@@ -197,7 +197,7 @@ footer {
   width:100%;
   height: 100px;
   background-color: #777;
-  padding: 0px;
+  padding: 10px;
   text-align: center;
   color: white;
 }
