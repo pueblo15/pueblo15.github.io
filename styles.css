@@ -1,3 +1,17 @@
+body {
+  background-color: #eeeeee;
+}
+h1 {
+  color: blue;
+}
+{h2
+  color: red;
+}
+p {
+  color: black;
+}
+
+
 <style>
   .item1 { grid-area: menu; }
 .item2 { grid-area: header; }
@@ -24,15 +38,3 @@
 }
 </style>
 
-body {
-  background-color: #eeeeee;
-}
-h1 {
-  color: blue;
-}
-{h2
-  color: red;
-}
-p {
-  color: black;
-}
