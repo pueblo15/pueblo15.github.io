@@ -157,7 +157,7 @@ body {
   padding: 25px;
   background-color: #8c8b8f;
   text-align: left;
-  font-size: 25px;
+  font-size: 15px;
  color: #ffffff;
 }
 
@@ -165,12 +165,14 @@ body {
   border: 0px outset;
   padding:25px;
   background-color: #bdbbc2;
+  font-size: 15px;
   text-align: left;
 }
 .myDiv3 {
   border: 0px outset;
   padding:25px;
   background-color: #ffffff;
+  font-size: 15px;
   text-align: left;
 }
 .myDiv4 {
@@ -178,7 +180,7 @@ body {
   padding:25px;
   background-color: #333333;
   text-align: left;
-  font-size: 25px;
+  font-size: 15px;
   color: #ffffff;
 }
 
