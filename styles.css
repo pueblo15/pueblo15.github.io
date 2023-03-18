@@ -183,7 +183,14 @@ body {
   font-size: 15px;
   color: #ffffff;
 }
-
+.titleDiv1 {
+  border: 0px outset;
+  padding:5px;
+  background-color: #333333;
+  text-align: left;
+  font-size: 15px;
+  color: #ffffff;
+}
 
 
 /* Style the header */
