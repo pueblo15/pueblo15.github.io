@@ -9,9 +9,7 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: Lato;
-}
+
 
 /* Burger nav */
 
@@ -149,13 +147,18 @@ html, body {
   }
 }
 
+body {
+  font-family: Arial, sans-serif;
+}
+
 /* Divisions for content sections */
 .myDiv1 {
   border: 0px outset; 
   padding: 25px;
   background-color: #8c8b8f;
   text-align: left;
-  color: #ffffff;
+  font-size: 25px;
+ color: #ffffff;
 }
 
 .myDiv2 {
