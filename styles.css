@@ -35,7 +35,7 @@ html, body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  background-color: #dddddd;
+  background-color: #d4d7fa;
   
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: #FFF;
@@ -196,7 +196,7 @@ body {
 /* Style the header */
 header {
   width:100%;
-  background-color: #dddddd;
+  background-color: #d4d7fa;
   padding: 10px;
   text-align: center;
   font-size: 25px;
