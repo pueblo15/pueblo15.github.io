@@ -140,7 +140,7 @@ html, body {
     padding: .50em 0;
     width: 100%;
     color: #000000;
-    background-color: #cccccc;
+    background-color: #ffffff;
   }
   .menu > li:not(:last-child) {
     border-bottom: 1px solid #444;
