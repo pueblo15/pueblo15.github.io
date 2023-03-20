@@ -38,8 +38,8 @@ html, body {
   background-color: #d4d7fa;
   
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: #ccc;
-  height: 75px;
+  color: #fff;
+  height: 50px;
   padding: 1em;
 }
 
@@ -48,7 +48,7 @@ html, body {
   flex-direction: row;
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 10;
 }
 
 .menu > li {
@@ -74,7 +74,7 @@ html, body {
 .menu-button::before,
 .menu-button::after {
   display: block;
-  background-color: #fff;
+  background-color: #ccc;
   position: absolute;
   height: 4px;
   width: 30px;
