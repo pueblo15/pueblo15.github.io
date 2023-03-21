@@ -191,10 +191,10 @@ body {
   padding-right:25px;
   padding-top:5px;
   padding-bottom:5px;
-  background-color: #ffffff;
+  background-color: #55565e;
   text-align: left;
   font-size: 15px;
-  color: #333333;
+  color: #ffffff;
 }
 .titleDiv1 {
   border: 0px outset;
@@ -202,9 +202,10 @@ body {
   padding-right:0px;
   padding-bottom:10px;
   padding-top:20px;
-  background-color: #ffffff;
+  background-color: #55565e;
   text-align: left;
   font-size: 25px;
+  color:#ffffff;
   
 }
 .titleDiv2 {
