@@ -175,13 +175,13 @@ body {
   text-align: left;
   color: #55565e;
 }
-.myDiv3 {
+.myDivblue {
   border: 0px outset;
   padding-left:25px;
   padding-right:25px;
   padding-top:5px;
   padding-bottom:5px;
-  background-color: #ffffff;
+  background-color: #e8eafa;
   font-size: 15px;
   text-align: left;
 }
