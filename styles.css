@@ -182,11 +182,13 @@ body {
 }
 .myDiv4 {
   border: 0px outset;
-  padding:25px;
-  background-color: #333333;
+  padding-left:25px;
+  padding-top:5px;
+  padding-bottom:5px;
+  background-color: #ffffff;
   text-align: left;
   font-size: 15px;
-  color: #ffffff;
+  color: #333333;
 }
 .titleDiv1 {
   border: 0px outset;
