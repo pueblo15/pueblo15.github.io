@@ -185,7 +185,7 @@ body {
   font-size: 15px;
   text-align: left;
 }
-.myDiv4 {
+.myDivgrey {
   border: 0px outset;
   padding-left:25px;
   padding-right:25px;
@@ -217,15 +217,15 @@ body {
   background-color: #e8eafa;
   text-align: left;
   font-size: 25px;
-  color: #ffffff;
+  color: #55565e;
 }
-.titleDiv4 {
+.titleDivgrey {
   border: 0px outset;
   padding-top:20px;
   padding-left:25px;
   padding-right:0px;
    padding-bottom:10px;
-  background-color: #ffffff;
+  background-color: #55565e;
   text-align: left;
   font-size: 25px;
   
