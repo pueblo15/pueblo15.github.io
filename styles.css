@@ -154,11 +154,13 @@ body {
 /* Divisions for content sections */
 .myDiv1 {
   border: 0px outset; 
-  padding: 25px;
-  background-color: #8c8b8f;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #ffffff;
   text-align: left;
   font-size: 15px;
- color: #ffffff;
+ color: #333333;
 }
 
 .myDiv2 {
@@ -188,11 +190,13 @@ body {
 }
 .titleDiv1 {
   border: 0px outset;
-  padding:25px;
-  background-color: #cdcdcd;
+  padding-left:25px;
+  padding-bottom:10px;
+  padding-top:10px;
+  background-color: #ffffff;
   text-align: left;
   font-size: 25px;
-  color: #ffffff;
+  
 }
 .titleDiv2 {
   border: 0px outset;
