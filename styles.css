@@ -164,7 +164,7 @@ body {
 .myDiv2 {
   border: 0px outset;
   padding:25px;
-  background-color: #bdbbc2;
+  background-color: #333333;
   font-size: 15px;
   text-align: left;
 }
@@ -191,8 +191,22 @@ body {
   font-size: 25px;
   color: #ffffff;
 }
-
-
+.titleDiv2 {
+  border: 0px outset;
+  padding:25px;
+  background-color: #333333;
+  text-align: left;
+  font-size: 25px;
+  color: #ffffff;
+}
+.titleDiv3 {
+  border: 0px outset;
+  padding:25px;
+  background-color: #cdcdcd;
+  text-align: left;
+  font-size: 25px;
+  color: #ffffff;
+}
 /* Style the header */
 header {
   width:100%;
