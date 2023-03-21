@@ -194,7 +194,8 @@ body {
 }
 .titleDiv2 {
   border: 0px outset;
-  padding:15px;
+  padding-top:10px;
+  padding-left:25px;
   background-color: #333333;
   text-align: left;
   font-size: 25px;
