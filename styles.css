@@ -235,8 +235,10 @@ body {
 
 /* Rounded border */
 hr.rounded {
-  border-top: 8px solid #bbb;
+  border-top: 8px solid #333333;
   border-radius: 5px;
+  width:50%;
+  align: center;
 }
 
 
