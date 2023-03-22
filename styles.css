@@ -233,7 +233,11 @@ body {
   
 }
 
-
+.dividerDivgrey {
+  width:50%;
+  border: 5px outset;
+  color: #55565e;
+  }
 
 
 /* Style the header */
