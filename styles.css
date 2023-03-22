@@ -233,11 +233,11 @@ body {
   
 }
 
-.dividerDivgrey {
-  width:50%;
-  border: 5px outset;
-  color: #55565e;
-  }
+/* Rounded border */
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
 
 
 /* Style the header */
