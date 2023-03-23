@@ -173,8 +173,8 @@ body {
   border: 0px outset;
   padding-left:10px;
   padding-right:10px;
-  padding-top:5px;
-  padding-bottom:5px;
+  padding-top:10px;
+  padding-bottom:10px;
   background-color: #d6eed6;
   font-size: 15px;
   text-align: left;
@@ -184,8 +184,8 @@ body {
   border: 0px outset;
   padding-left:10px;
   padding-right:10px;
-  padding-top:5px;
-  padding-bottom:5px;
+  padding-top:10px;
+  padding-bottom:10px;
   background-color: #e8eafa;
   font-size: 15px;
   text-align: left;
@@ -193,10 +193,10 @@ body {
 }
 .myDivgrey {
   border: 0px outset;
-  padding-left:25px;
-  padding-right:25px;
-  padding-top:5px;
-  padding-bottom:5px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:10px;
+  padding-bottom:10px;
   background-color: #55565e;
   text-align: left;
   font-size: 15px;
@@ -205,9 +205,9 @@ body {
 
 .titleDivwhite {
   border: 0px outset;
-  padding-top:20px;
-  padding-left:20px;
-  padding-right:0px;
+  padding-top:10px;
+  padding-left:10px;
+  padding-right:10px;
   padding-bottom:10px;
   background-color: #ffffff;
   text-align: left;
@@ -218,10 +218,10 @@ body {
   border-top-style: solid;
   border-width:5px;
   border-color:red;
-  padding-left:20px;
+  padding-left:10px;
    padding-bottom:10px;
-   padding-top:20px;
-  padding-right:0px;
+   padding-top:10px;
+  padding-right:10px;
   background-color: #55565e;
   text-align: left;
   font-size: 25px;
@@ -231,9 +231,9 @@ body {
 
 .titleDivgrey {
   border: 0px outset;
-  padding-top:20px;
-  padding-left:20px;
-  padding-right:0px;
+  padding-top:10px;
+  padding-left:10px;
+  padding-right:10px;
    padding-bottom:10px;
   background-color: #55565e;
   text-align: left;
