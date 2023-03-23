@@ -210,15 +210,16 @@ body {
   color: color: #333333;
 }
 .titleDivred {
-  border: 0px outset;
+  border-bottom: 5px;
+  border-color:#b80000;
   padding-left:25px;
    padding-bottom:10px;
    padding-top:20px;
   padding-right:0px;
-  background-color: #eeeeee;
+  background-color: #55565e;
   text-align: left;
   font-size: 25px;
-  color:#d6eed6;
+  color:#ffffff;
 }
 
 
