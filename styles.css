@@ -235,8 +235,8 @@ body {
 
 /* Rounded border */
 hr.rounded {
-  border-top: 5px solid #e8eafa;
-  border-radius: 5px;
+  border-top: 5px solid #bbbbbb;
+  border-radius: 10px;
   width:33%;
   margin: 0px;
 }
