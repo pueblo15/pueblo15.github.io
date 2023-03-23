@@ -209,17 +209,19 @@ body {
   font-size: 25px;
   color: color: #333333;
 }
-.titleDivblue {
+.titleDivred {
   border: 0px outset;
   padding-left:25px;
    padding-bottom:10px;
    padding-top:20px;
   padding-right:0px;
-  background-color: #e8eafa;
+  background-color: #c70d0d;
   text-align: left;
   font-size: 25px;
-  color: color: #333333;
+  color:#ffffff;
 }
+
+
 .titleDivgrey {
   border: 0px outset;
   padding-top:20px;
