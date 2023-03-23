@@ -154,10 +154,10 @@ body {
 /* Divisions for content sections */
 .myDivwhite {
   border: 0px outset; 
-  padding-left: 25px;
+  padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-right:25px;
+  padding-right:10px;
   background-color: #ffffff;
   text-align: left;
   font-size: 15px;
@@ -177,8 +177,8 @@ body {
 }
 .myDivblue {
   border: 0px outset;
-  padding-left:25px;
-  padding-right:25px;
+  padding-left:10px;
+  padding-right:10px;
   padding-top:5px;
   padding-bottom:5px;
   background-color: #e8eafa;
