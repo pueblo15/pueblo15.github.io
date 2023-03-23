@@ -157,11 +157,23 @@ body {
 
 
 
-.myDivwhite {
+.myDivwhitea {
   border: 0px outset; 
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 0px;
+  padding-right:20px;
+  background-color: #ffffff;
+  text-align: left;
+  font-size: 15px;
+ color: #333333;
+}
+
+.myDivwhiteb {
+  border: 0px outset; 
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   padding-right:20px;
   background-color: #ffffff;
   text-align: left;
