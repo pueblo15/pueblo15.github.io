@@ -206,7 +206,7 @@ body {
 .titleDivwhite {
   border: 0px outset;
   padding-top:20px;
-  padding-left:25px;
+  padding-left:20px;
   padding-right:0px;
   padding-bottom:10px;
   background-color: #ffffff;
@@ -218,7 +218,7 @@ body {
   border-top-style: solid;
   border-width:5px;
   border-color:red;
-  padding-left:25px;
+  padding-left:20px;
    padding-bottom:10px;
    padding-top:20px;
   padding-right:0px;
@@ -232,7 +232,7 @@ body {
 .titleDivgrey {
   border: 0px outset;
   padding-top:20px;
-  padding-left:25px;
+  padding-left:20px;
   padding-right:0px;
    padding-bottom:10px;
   background-color: #55565e;
